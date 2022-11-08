@@ -1,0 +1,13 @@
+package com.example.projekatglavni1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+
+class Projekatglavni1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
